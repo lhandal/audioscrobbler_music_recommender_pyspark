@@ -27,6 +27,8 @@ http://creativecommons.org/licenses/by-nc-sa/1.0/
 Files
 -----
 
+http://www.iro.umontreal.ca/~lisa/datasets/profiledata_06-May-2005.tar.gz
+
 user_artist_data.txt
     3 columns: userid artistid playcount
 
